@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Jogos Hack de Neo Geo (família da hardware de videogames desenvolvido pela SNK). A marca originou-se com a liberação de um sistema arcade, o Neo Geo MVS e sua contraparte de console doméstico, o Neo Geo AES.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Neo Geo Hack Games (family of video game hardware developed by SNK). The brand originated with the release of an arcade system, the Neo Geo MVS and its home console counterpart, the Neo Geo AES.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Juegos de Hack de Neo Geo (familia de hardware de videojuegos desarrollado por SNK). La marca se originó con la liberación de un sistema arcade, el Neo Geo MVS y su contraparte de consola doméstica, el Neo Geo AES.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Neo Geo Hack Games (famille de matériel de jeux vidéo développée par SNK). La marque est née avec la sortie d'un système d'arcade, le Neo Geo MVS et son homologue de console domestique, le Neo Geo AES.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Neo Geo</text>
+		</text>
+	</view>
+</theme>

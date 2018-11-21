@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>A SNK é uma empresa japonesa de videogames fundada em Higashiosaka, Osaka, aos 22 de julho de 1978 pelo ex-boxeador Eikichi Kawasaki. SNK é um acrônimo para Shin Nihon Kikaku (ou Projeto Novo Japão, em japonês).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>SNK is a Japanese video game company founded in Higashiosaka, Osaka on July 22, 1978 by former boxer Eikichi Kawasaki. SNK is an acronym for Shin Nihon Kikaku (or New Japanese Project, in Japanese).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>SNK es una empresa japonesa de videojuegos fundada en Higashiosaka, Osaka, el 22 de julio de 1978 por el ex boxeador Eikichi Kawasaki. SNK es un acrónimo para Shin Nihon Kikaku (o Proyecto Nuevo Japón, en japonés).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>SNK est une société de jeux vidéo japonaise fondée à Higashiosaka, Osaka, le 22 juillet 1978 par l'ancien boxeur Eikichi Kawasaki. SNK est un acronyme pour Shin Nihon Kikaku (ou New Japanese Project, en japonais).</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>SNK</text>
+		</text>
+	</view>
+</theme>

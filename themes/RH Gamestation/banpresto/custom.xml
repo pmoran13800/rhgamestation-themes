@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Banpresto Co., Ltd., é uma empresa japonesa de brinquedos e ex-desenvolvedora de jogos, com sede no Shinagawa Seaside West Building em Shinagawa, Tóquio. Banpresto criou uma variedade de videogames somente no Japão.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Banpresto Co., Ltd., is a Japanese toy company and former game developer, headquartered at the Shinagawa Seaside West Building in Shinagawa, Tokyo. Banpresto has created a variety of video games only in Japan.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Banpresto Co., Ltd., es una empresa japonesa de juguetes y ex desarrollador de juegos, con sede en el Shinagawa Seaside West Building en Shinagawa, Tokio. Banpresto ha creado una variedad de videojuegos sólo en Japón.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Banpresto Co., Ltd., é uma empresa japonesa de brinquedos e ex-desenvolvedora de jogos, com sede no Shinagawa Seaside West Building em Shinagawa, Tóquio. Banpresto criou uma variedade de videogames somente no Japão.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Banpresto</text>
+		</text>
+	</view>
+</theme>

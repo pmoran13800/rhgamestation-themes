@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>A Data East Corporation, era uma empresa japonesa de videogames e engenharia eletrônica. A empresa estava em operação de 1976 a 2003 e lançou 150 títulos de videogames.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Data East Corporation was a Japanese video game and electronics engineering company. The company was in operation from 1976 to 2003 and released 150 video game titles.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Data East Corporation, era una empresa japonesa de videojuegos e ingeniería electrónica. La empresa estaba en operación de 1976 a 2003 y lanzó 150 títulos de videojuegos.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Data East Corporation était une société japonaise de jeux vidéo et d’ingénierie électronique. La société était en opération de 1976 à 2003 et a publié 150 titres de jeux vidéo.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Data East</text>
+		</text>
+	</view>
+</theme>

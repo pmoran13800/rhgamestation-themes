@@ -1,0 +1,23 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../simple.xml</include>
+    <include>./../common/templates/concise.xml</include>
+    
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./art/nes_art_blur.jpg</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/nes2.svg</path>
+        </image>
+	</view>
+
+	<view name="basic, detailed">
+        <!-- System Specific Images -->
+        <image name="logo">
+            <path>./logo.svg</path>
+        </image>
+    </view>
+</theme>

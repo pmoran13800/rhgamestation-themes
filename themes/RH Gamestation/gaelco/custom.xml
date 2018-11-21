@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Gaelco (Gabinete de Consulta Electrónica) é uma empresa espanhola que desenvolve jogos de arcada e videogames. Atualmente desenvolve máquinas de dardos eletrônicos sob o nome de "Gaelco Darts".</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Gaelco (Electronic Consultation Office) is a Spanish company that develops arcade games and video games. He currently develops electronic dart machines under the name "Gaelco Darts".</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Gaelco (Gabinete de Consulta Electrónica) es una empresa española que desarrolla juegos de arcada y videojuegos. Actualmente desarrolla máquinas de dardos electrónicos bajo el nombre de "Gaelco Darts".</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Gaelco (Electronic Consultation Office) est une société espagnole qui développe des jeux d'arcade et des jeux vidéo. Il développe actuellement des machines électroniques sous le nom de "Gaelco Darts".</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Gaelco</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Namco é uma empresa localizada no Japão, conhecida pelo desenvolvimento de videojogos. Sua fama mundial começou quando, no ano de 1980, lançou um jogo que viraria febre nos arcades em todo o mundo: Pac Man.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Namco is a company located in Japan, known for the development of video games. His world-wide fame began when, in the year of 1980, he launched a game that would become fever in the arcades around the world: Pac Man.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Namco es una empresa ubicada en Japón, conocida por el desarrollo de videojuegos. Su fama mundial comenzó cuando, en el año 1980, lanzó un juego que vendría fiebre en los arcades en todo el mundo: Pac Man.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Namco est une société située au Japon, connue pour le développement de jeux vidéo. Sa renommée mondiale a commencé quand, en 1980, il a lancé un jeu qui allait faire la fièvre dans les arcades du monde entier: Pac Man.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Namco</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O Sega Saturn é um console de videogame de 32 bits lançado pela Sega. Tornou-se um console popular no Japão devido à seu marketing de sucesso, com o personagem Segata Sanshiro.</text>
+		</text>
+				
+				<text name="info1" extra="true" region="English">
+			<text>The Sega Saturn is a 32-bit video game console launched by Sega. It has become a popular console in Japan due to its successful marketing, with the character Segata Sanshiro.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Sega Saturn es una consola de videojuego de 32 bits lanzada por Sega. Se convirtió en una consola popular en Japón debido a su éxito de marketing, con el personaje de Segata Sanshiro.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>La Sega Saturn est une console de jeux vidéo 32 bits lancée par Sega. Il est devenu une console populaire au Japon en raison de son marketing réussi, avec le personnage Segata Sanshiro.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sega Saturn</text>
+		</text>
+	</view>
+</theme>

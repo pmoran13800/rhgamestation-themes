@@ -1,0 +1,26 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true" region="Português">
+			<text>Jogos Hack de SNES modificados por fãs. O SNES é o segundo home console da Nintendo, lançado na geração 16 bits. Considerado um dos melhores consoles da história.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Fan-modified SNES Hack games. SNES is Nintendo's second home console, launched in the 16-bit generation. Considered one of the best islands in history.</text>
+		</text>
+				
+				<text name="info1" extra="true" region="Español">
+			<text>Juegos de Hack de SNES modificados por fans. El SNES es la segunda consola de Nintendo, lanzada en la generación de 16 bits. Considerado una de las mejores consolas de la historia.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Jeux SNES Hack modifiés par les fans. SNES est la deuxième console domestique de Nintendo, lancée dans la génération 16 bits. Considéré comme l'une des meilleures îles de l'histoire.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Super Nintendo (Hacks)</text>
+		</text>
+		</view>
+</theme>

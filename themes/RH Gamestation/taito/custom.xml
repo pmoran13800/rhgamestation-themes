@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>A Taito Corporation é uma produtora e distribuidora de jogos eletrônicos do Japão pertencente à Square Enix. Taito Trading Company foi fundada por um empresário russo e judeu chamado Michael Kogan.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Taito Corporation is a Japanese game producer and distributor of Square Enix. Taito Trading Company was founded by a Russian and Jewish businessman named Michael Kogan.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Taito Corporation es una productora y distribuidora de juegos electrónicos de Japón perteneciente a Square Enix. Taito Trading Company fue fundada por un empresario ruso y judío llamado Michael Kogan.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Taito Corporation es una productora y distribuidora de juegos electrónicos de Japón perteneciente a Square Enix. Taito Trading Company fue fundada por un empresario ruso y judío llamado Michael Kogan.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Taito</text>
+		</text>
+	</view>
+</theme>

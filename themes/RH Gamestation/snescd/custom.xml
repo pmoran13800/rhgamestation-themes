@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Super NES CD-ROM System, também chamado de SNES-CD, e nos Estados Unidos de Super Famicom CD-ROM Adapter, foi um protótipo de periférico de leitor de CD para o SNES.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Super NES CD-ROM System, also called SNES-CD, and in the United States of Super Famicom CD-ROM Adapter, was a prototype peripheral CD player for the SNES.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Super NES CD-ROM System, también llamado SNES-CD, y en los Estados Unidos de Super Famicom CD-ROM Adapter, fue un prototipo de periférico de reproductor de CD para SNES.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Le système de CD-ROM Super NES, également appelé SNES-CD, et aux États-Unis de l'adaptateur de CD-ROM Super Famicom, était un lecteur de CD périphérique périphérique pour la SNES.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Super Nintendo CD</text>
+		</text>
+		</view>
+</theme>

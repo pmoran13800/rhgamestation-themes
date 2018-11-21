@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Konami Holdings Corporation é uma empresa pública japonesa desenvolvedora e distribuidora de jogos eletrônicos, brinquedos, animes, cromos, tokusatsus e máquinas de caça-níqueis.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Konami Holdings Corporation is a Japanese public company developer and distributor of electronic games, toys, anime, chrome, tokusatsus and slot machines.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Konami Holdings Corporation es una empresa pública japonesa desarrolladora y distribuidora de juegos electrónicos, juguetes, animes, cromos, tokusatsus y máquinas tragaperras.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Konami Holdings Corporation es una empresa pública japonesa desarrolladora y distribuidora de juegos electrónicos, juguetes, animes, cromos, tokusatsus y máquinas tragaperras.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Konami</text>
+		</text>
+	</view>
+</theme>

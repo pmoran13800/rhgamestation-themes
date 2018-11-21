@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Playtronic foi uma empresa e fábrica de brinquedos brasileira criada em 1993 entre a Gradiente e a Estrela, para representar a Nintendo oficialmente no Brasil.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Playtronic was a Brazilian company and toy factory created in 1993 between Gradiente and Estrela, to represent Nintendo officially in Brazil.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Playtronic foi uma empresa e fábrica de brinquedos brasileira criada em 1993 entre a Gradiente e a Estrela, para representar a Nintendo oficialmente no Brasil.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Playtronic était une entreprise brésilienne et une usine de jouets créée en 1993 entre Gradiente et Estrela, pour représenter officiellement Nintendo au Brésil.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Playtronic</text>
+		</text>
+	</view>
+</theme>

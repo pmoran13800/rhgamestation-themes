@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>A Technōs Japan Corp., foi uma desenvolvedora japonesa de videogames, mais conhecida pelas franquias Double Dragon e Kunio-kun (que inclui Renegade, Super Dodge Ball e River City Ransom).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Techno's Japan Corp., was a Japanese developer of video games, best known for the franchises Double Dragon and Kunio-kun (which includes Renegade, Super Dodge Ball and River City Ransom).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Technōs Japan Corp., fue una desarrolladora japonesa de videojuegos, más conocida por las franquicias Double Dragon y Kunio-kun (que incluye Renegade, Super Dodge Ball y River City Ransom).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Techno's Japan Corp. était un développeur japonais de jeux vidéo, mieux connu pour les franchises Double Dragon et Kunio-kun (qui incluent Renegade, Super Dodge Ball et River City Ransom).</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Technōs</text>
+		</text>
+	</view>
+</theme>

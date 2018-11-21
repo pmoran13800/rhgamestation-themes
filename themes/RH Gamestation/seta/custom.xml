@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>A SETA Corporation foi uma empresa de jogos de computador japonesa, fundada em 1 de outubro de 1985. A sede da empresa estava em Kōtō. Tóquio e a filial americana da Seta estava localizada em Las Vegas, Nevada.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>SETA Corporation was a Japanese computer gaming company, founded on October 1, 1985. The company headquarters was in Kōtō. Tokyo and the American branch of Seta was located in Las Vegas, Nevada.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>SETA Corporation fue una empresa de juegos de ordenador japonesa, fundada el 1 de octubre de 1985. La sede de la empresa estaba en Kōtō. Tokio y la filial estadounidense de la flecha se encontraban en Las Vegas, Nevada.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>SETA Corporation était une société japonaise de jeux informatiques fondée le 1er octobre 1985. Le siège de la société était à Kōtō. Tokyo et la branche américaine de Seta étaient situées à Las Vegas, au Nevada.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Seta</text>
+		</text>
+	</view>
+</theme>

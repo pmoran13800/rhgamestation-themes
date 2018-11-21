@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>CAVE Interactive CO., LTD., é uma empresa japonesa de videogames fundada em 1994 por ex-funcionários da Toaplan após sua falência. A CAVE foi um dos mais prolíficos desenvolvedores de shoot 'em up no mercado japonês.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>CAVE Interactive CO., LTD., Is a Japanese video game company founded in 1994 by former Toaplan employees after their bankruptcy. CAVE was one of the most prolific developers to shoot 'em up in the Japanese market.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>CAVE Interactive CO., LTD., Es una empresa japonesa de videojuegos fundada en 1994 por ex empleados de Toaplan después de su quiebra. CAVE fue uno de los más prolíficos desarrolladores de shoot 'em up en el mercado japonés.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>CAVE Interactive CO., LTD., Est une société de jeux vidéo japonaise fondée en 1994 par d'anciens employés de Toaplan après leur faillite. CAVE a été l’un des développeurs les plus prolifiques à se lancer sur le marché japonais.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Cave</text>
+		</text>
+	</view>
+</theme>

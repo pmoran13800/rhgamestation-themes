@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Jogos Hack de Nintendo 64 modificados por fãs (terceiro console de videogame doméstico da empresa japonesa Nintendo, lançado em 23 de junho de 1996 no Japão).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Fan-modified Nintendo 64 Hack Games (third-party home console from Japanese company Nintendo, released June 23, 1996 in Japan).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Juegos de Hack de Nintendo 64 modificados por fans (tercera consola de videojuego doméstico de la empresa japonesa Nintendo, lanzada el 23 de junio de 1996 en Japón).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Nintendo 64 Hack Games modifiés par des fans (console de salon tierce de la société japonaise Nintendo, sortie le 23 juin 1996 au Japon).</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Nintendo 64 Hacks</text>
+		</text>
+	</view>
+</theme>

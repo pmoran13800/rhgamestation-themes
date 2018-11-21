@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Jogos de Mega Drive (console de video game de 16 bits da Sega que concorria diretamente com o Super Nintendo) traduzidos para o Português brasileiro.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Mega Drive games (Sega's 16-bit video game console that competed directly with Super Nintendo) translated into Brazilian Portuguese.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Juegos de Mega Drive (consola de juegos de vídeo de 16 bits de Sega que compitió directamente con la Super Nintendo) traducidas al portugués de Brasil.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Les jeux Mega Drive (la console de jeux vidéo 16 bits de Sega qui rivalisait directement avec Super Nintendo) ont été traduits en portugais brésilien.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Sega Mega Drive (BR)</text>
+		</text>
+	</view>
+</theme>

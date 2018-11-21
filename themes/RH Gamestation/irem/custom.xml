@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>A Irem é uma empresa tem sua sede em Chiyoda, Tóquio. O nome completo da empresa que atualmente utiliza a marca é Irem Engenharia de Software. Foi fundada em 1974 como IPM e ainda existe hoje sob o nome de Apies.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Irem is a company based in Chiyoda, Tokyo. The full name of the company that currently uses the brand is Irem Software Engineering. It was founded in 1974 as IPM and still exists today under the name Apies.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Irem es una empresa tiene su sede en Chiyoda, Tokio. El nombre completo de la empresa que actualmente utiliza la marca es Ingeniería de Software. Fue fundada en 1974 como IPM y aún existe hoy bajo el nombre de Apies.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Irem est une société basée à Chiyoda, Tokyo. Le nom complet de la société qui utilise actuellement la marque est Irem Software Engineering. Elle a été fondée en 1974 en tant qu'IPM et existe encore aujourd'hui sous le nom d'Apies.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Irem</text>
+		</text>
+	</view>
+</theme>

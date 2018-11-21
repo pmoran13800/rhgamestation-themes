@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Kaneko iniciou seu negócio de videogames, em 1982, como desenvolvedor dos videogames da Taito Corporation. Em 1990, a Kaneko começou a fazer seu próprio videogame sob a marca KANEKO.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Kaneko started his video game business in 1982 as a developer of the Taito Corporation video games. In 1990, Kaneko started making his own video game under the KANEKO brand.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Kaneko inició su negocio de videojuegos en 1982 como desarrollador de los videojuegos de Taito Corporation. En 1990, Kaneko empezó a hacer su propio videojuego bajo la marca KANEKO.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Kaneko a commencé son activité de jeux vidéo en 1982 en tant que développeur des jeux vidéo de Taito Corporation. En 1990, Kaneko a commencé à créer son propre jeu vidéo sous la marque KANEKO.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Kaneko</text>
+		</text>
+	</view>
+</theme>

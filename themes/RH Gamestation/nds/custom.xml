@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>É um console de videogame portátil desenvolvido e produzido pela Nintendo, lançado em 2004. Ele é visualmente distinto por seu design abre e fecha, e a presença de duas telas, sendo a inferior sensível ao toque.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Is a dual-screen handheld game console developed and released by Nintendo. The device went on sale in North America on November 21, 2004. The DS, short for "Developers' System" or "Dual Screen".</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Es una videoconsola portátil de Nintendo, creada para suceder a la Game Boy Advance. Permite la reproducción de videojuegos y multimedia, y pertenece a la séptima generación cuyo rival directo fue la PSP.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Nintendo DS (ニンテンドーDS, Nintendō Dī Esu, DS pour Dual Screen, Double Screen au Japon), est une console portable créée par Nintendo, sortie fin 2004 au Japon et en Amérique du Nord et en 2005 en Europe.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Nintendo DS</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>A Visco Corporation é uma empresa japonesa de software localizada no Japão. Foi fundada em 1982 por Tetsuo Akiyama, e mais tarde tornou-se corporativa em 8 de agosto de 1983, revelando-se como "Visco" no Japão.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Visco Corporation is a Japanese software company located in Japan. It was founded in 1982 by Tetsuo Akiyama, and later became corporate on August 8, 1983, revealing itself as "Mistletoe" in Japan.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Visco Corporation es una empresa japonesa de software ubicada en Japón. Fue fundada en 1982 por Tetsuo Akiyama, y más tarde se convirtió en corporativa el 8 de agosto de 1983, revelándose como "Visco" en Japón.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Visco Corporation est un éditeur de logiciels japonais basé au Japon, fondé en 1982 par Tetsuo Akiyama.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Visco</text>
+		</text>
+	</view>
+</theme>

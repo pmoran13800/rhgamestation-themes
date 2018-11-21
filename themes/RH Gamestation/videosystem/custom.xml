@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>A Video System Co., Ltd. foi uma empresa de software que foi fundada e administrada pelo designer de software Koji Furukawa em Kyoto, Japão, em dezembro de 1984.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>A Video System Co., Ltd. was a software company that was founded and managed by software designer Koji Furukawa in Kyoto, Japan, in December 1984.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Video System Co., Ltd. fue una empresa de software que fue fundada y administrada por el diseñador de software Koji Furukawa en Kyoto, Japón, en diciembre de 1984.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>A Video System Co., Ltd. était un éditeur de logiciels fondé et géré par le concepteur de logiciels Koji Furukawa à Kyoto, au Japon, en décembre 1984.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Video System</text>
+		</text>
+	</view>
+</theme>

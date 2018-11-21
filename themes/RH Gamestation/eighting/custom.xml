@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Raizing e Eighting foram formados em parte pela antiga equipe do Compile, para criar jogos de arcade. O desenvolvimento foi feito pela Raizing, enquanto as vendas e distribuição foram feitas pela Eighting.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Raizing and Eighting were formed in part by the former team of Compile, to create arcade games. The development was made by Raizing, while sales and distribution were made by Eighting.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Raizing y Eighting fueron formados en parte por el antiguo equipo de Compile, para crear juegos de arcade. El desarrollo fue hecho por el Raizing, mientras que las ventas y la distribución fueron hechas por Eighting.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Raizing and Eighting ont été formés en partie par l'ancienne équipe de Compile, pour créer des jeux d'arcade. Le développement a été réalisé par Raizing, tandis que les ventes et la distribution ont été réalisées par Eighting.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Eighting</text>
+		</text>
+	</view>
+</theme>

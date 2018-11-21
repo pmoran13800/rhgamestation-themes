@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Toaplan Co., Ltd. foi uma empresa desenvolvedora de jogos de vídeo do Japão. Eles foram responsáveis pela criação de uma ampla gama de atiradores de rolagem relativamente famosos e outros jogos de arcade.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Toaplan Co., Ltd. was a video game developer company of Japan. They were responsible for creating a wide range of relatively famous shooters and other arcade games.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Toaplan Co., Ltd. fue una empresa desarrolladora de videojuegos de Japón. Ellos fueron responsables de la creación de una amplia gama de tiradores de desplazamiento relativamente famosos y otros juegos de arcade.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Toaplan Co., Ltd., une société de développement de jeux vidéo du Japon, était chargée de créer un large éventail de jeux de tir relativement célèbres et d’autres jeux d’arcade.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Toaplan</text>
+		</text>
+	</view>
+</theme>

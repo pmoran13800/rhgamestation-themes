@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Portugu?s">
+			<text>Dynavision era o nome dado aos consoles fabricados pela Dynacom, que era basicamente clones de consoles conhecidos no mercado Brasileiro tais como o Dynavision 2/3/4 e outras variantes.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Dynavision was the name given to the consoles manufactured by Dynacom, which was basically clones of consoles known in the Brazilian market such as Dynavision 2/3/4 and other variants.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Espa?ol">
+			<text>Dynavision era el nombre dado a las consolas fabricadas por Dynacom, que era b?sicamente clones de consolas conocidas en el mercado Brasile?o tales como el Dynavision 2/3/4 y otras variantes.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Fran?ais">
+			<text>Dynavision ?tait le nom donn? aux consoles fabriqu?es par Dynacom, qui ?taient essentiellement des clones de consoles connues sur le march? br?silien telles que Dynavision 2/3/4 et d'autres variantes.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Dynavision</text>
+		</text>
+	</view>
+</theme>

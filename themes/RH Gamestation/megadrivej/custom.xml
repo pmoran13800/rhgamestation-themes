@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Jogos Japoneses de Mega Drive (console de video game de 16 bits da Sega que concorria diretamente com o Super Nintendo).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Japanese Genesis/ Mega Drive Games (Sega's 16-bit video game console that competed directly with Super Nintendo).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Juegos Japoneses de Mega Drive (consola de videojuego de 16 bits de Sega que compitió directamente con el Super Nintendo).</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Mega Drive Games japonais (la console de jeux vidéo 16 bits de Sega qui rivalisait directement avec Super Nintendo).</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Sega Mega Drive / Genesis (JP)</text>
+		</text>
+	</view>
+</theme>

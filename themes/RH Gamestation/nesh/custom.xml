@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Jogos Hacks de NES modificados por fãs. O NES/Famicom foi o videogame de maior sucesso comercial na sua época, ajudou a indústria de videogames a se recuperar da crise de 1983.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Games Hacks of NES modified by fans. The NES / Famicom was the most commercially successful video game of its time, helping the video game industry recover from the 1983 crisis.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Juegos Hacks de NES modificados por fans. El NES / Famicom fue el videojuego de mayor éxito comercial en su época, ayudó a la industria de videojuegos a recuperarse de la crisis de 1983.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Jeux Hacks de NES modifiés par les fans. Le NES / Famicom était le jeu vidéo le plus rentable de son époque, aidant l’industrie du jeu vidéo à se remettre de la crise de 1983.</text>
+		</text>
+		
+		
+		<text name="info2" extra="true">
+			<text>Nintendo System (Hacks)</text>
+		</text>
+	</view>
+	
+</theme>

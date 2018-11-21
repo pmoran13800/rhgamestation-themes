@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>A Jaleco Ltd original foi fundada em 1974. Em 2006, decidiu tornar-se uma holding pura ao renomear a Jaleco Holding e dividir suas operações de videogame em uma subsidiária recém-criada.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>The original Jaleco Ltd was founded in 1974. In 2006 it decided to become a pure holding company by renaming Jaleco Holding and splitting its video game operations into a newly created subsidiary.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>La Jaleco Ltd original fue fundada en 1974. En 2006, decidió convertirse en un holding puro al renombrar a Jaleco Holding y dividir sus operaciones de videojuego en una subsidiaria recién creada.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>La Jaleco Ltd originale a été fondée en 1974. En 2006, elle a décidé de devenir une société holding pure en renommant Jaleco Holding et en divisant ses opérations de jeux vidéo en une filiale nouvellement créée.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Jaleco</text>
+		</text>
+	</view>
+</theme>

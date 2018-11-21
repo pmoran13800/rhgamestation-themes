@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>A Seibu Kaihatsu Inc. é uma fabricante japonesa de jogos de arcade. A empresa foi fundada em 1982 em Tóquio, Japão, como Seibu Denshi Inc., mas mudou para seu nome atual em 1984.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Seibu Kaihatsu Inc. is a Japanese manufacturer of arcade games. The company was founded in 1982 in Tokyo, Japan, as Seibu Denshi Inc., but changed to its current name in 1984.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Seibu Kaihatsu Inc. es un fabricante japonés de juegos de arcade. La empresa fue fundada en 1982 en Tokio, Japón, como Seibu Denshi Inc., pero cambió a su nombre actual en 1984.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Seibu Kaihatsu Inc. est un fabricant japonais de jeux d'arcade. La société a été fondée en 1982 à Tokyo, au Japon, sous le nom de Seibu Denshi Inc., mais a changé de nom en 1984.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Seibu</text>
+		</text>
+	</view>
+</theme>

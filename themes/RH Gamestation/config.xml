@@ -1,0 +1,23 @@
+<theme>
+    <formatVersion>4</formatVersion>
+
+	<include subset="iconset" name="1-SNES ALT">./iconsets/snesalt.xml</include>
+	<include subset="iconset" name="2-standard icons">./iconsets/default.xml</include>
+	<include subset="iconset" name="3-SNES">./iconsets/snes.xml</include>
+	<include subset="iconset" name="4-XBox">./iconsets/xbox.xml</include>
+	<include subset="iconset" name="5-PSX">./iconsets/psx.xml</include>
+	
+	<include subset="systemview" name="1-Bello Logo View">./systemview/3.xml</include>
+	<include subset="systemview" name="2-Bello View">./systemview/2.xml</include>
+	<include subset="systemview" name="3-Eminence">./systemview/1.xml</include>
+	<include subset="systemview" name="4-Bello Diagonal">./systemview/4.xml</include>
+	<include subset="systemview" name="5-Bello PS4">./systemview/5.xml</include>
+	<include subset="systemview" name="6-Vertical Wheel (Right)">./systemview/6.xml</include>
+	<include subset="systemview" name="7-Vertical Wheel (Left)">./systemview/7.xml</include>
+
+	<include subset="gamelistview" name="1-Default Detailed">./gamelistviews/detailed.xml</include>
+	<include subset="gamelistview" name="2-Default">./gamelistviews/default.xml</include>
+	<include subset="gamelistview" name="3-Default 3 Columns">./gamelistviews/3col.xml</include>
+	<include subset="gamelistview" name="4-Default 2 Columns">./gamelistviews/2col.xml</include>
+	
+</theme>

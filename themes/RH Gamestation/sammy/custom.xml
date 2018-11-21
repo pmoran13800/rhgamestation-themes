@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>A Sammy Corporation é uma desenvolvedora e varejista líder de sistemas de pachinko e pachislot no Japão, estabelecida em 1º de novembro de 1975 como Sammy Industry.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Sammy Corporation is a leading developer and retailer of pachinko and pachislot systems in Japan, established on November 1, 1975 as Sammy Industry.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Sammy Corporation es un desarrollador y minorista líder de sistemas de pachinko y pachislot en Japón, establecida el 1 de noviembre de 1975 como Sammy Industry.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Sammy Corporation est un important développeur et détaillant de systèmes pachinko et pachislot au Japon, créé le 1er novembre 1975 sous le nom de Sammy Industry.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sammy</text>
+		</text>
+	</view>
+</theme>

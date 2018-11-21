@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Psikyo foi uma empresa desenvolvedora japonesa de videogames fundado em 1992. O Psikyo foi um desdobramento formado pela equipe do Video System que criou a série Aero Fighters.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>Psikyo was a Japanese developer of videogames founded in 1992. Psikyo was an offshoot formed by the Video System team that created the series Aero Fighters.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Psikyo fue una empresa desarrolladora japonesa de videojuegos fundada en 1992. El Psikyo fue un desdoblamiento formado por el equipo del Video System que creó la serie Aero Fighters.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Psikyo était un développeur japonais de jeux vidéo fondé en 1992. Psikyo était un groupe formé par l’équipe de Video System qui a créé la série Aero Fighters.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Psikyo</text>
+		</text>
+	</view>
+</theme>

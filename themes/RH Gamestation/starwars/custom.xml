@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>Reunião dos todos os jogos da série clássica Star Wars (Guerra nas Estrelas). É uma franquia do tipo space opera estadunidense criada pelo cineasta George Lucas.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+			<text>All the games in the classic Star Wars series. It is an American space opera franchise created by filmmaker George Lucas.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+			<text>Reunión de todos los juegos de la serie clásica Star Wars (Star Wars). Es una franquicia del tipo space opera estadounidense creada por el cineasta George Lucas.</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+			<text>Rencontre tous les jeux de la série Star Wars classique. C'est une franchise d'opéra spatiale américaine créée par le cinéaste George Lucas.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Star Wars</text>
+		</text>
+	</view>
+</theme>
